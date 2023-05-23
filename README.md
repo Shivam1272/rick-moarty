@@ -44,4 +44,6 @@ Shivam
 
 ### `GitHub: @Shivam1272`
 ### `Email: patelshivam.0212@gmail.com`
+Live Link: https://shivampatel-rickandmorty.netlify.app/
+
 Feel free to open an issue in the repository if you encounter any bugs or have suggestions for improvements.
